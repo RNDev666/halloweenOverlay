@@ -7,7 +7,7 @@ A Vencord user plugin that puts the Halloween overlay over Discord: spiders, bat
 From your Vencord source checkout:
 
 ```bash
-git clone <this repo> src/userplugins/halloweenOverlay
+git clone https://github.com/RNDev666/halloweenOverlay src/userplugins/halloweenOverlay
 pnpm build
 ```
 
