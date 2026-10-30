@@ -20,4 +20,4 @@ Restart Discord, then enable **HalloweenOverlay** in Settings → Vencord → Pl
 
 ## Updating the overlay
 
-`tt-halloween.js` is a copy of the file from the halloween-overlay repo. After changing it there, copy it over this one, then rebuild Vencord.
+`tt-halloween.js` is a copy. The real one lives in the halloween-overlay repo, and a GitHub Action there commits every change to it into this repo automatically, so don't edit the copy here. To update, `git pull` in this folder, then rebuild Vencord.
